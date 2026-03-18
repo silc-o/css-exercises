@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+
+.odd-numbers {
+  color: black;
+  font-family: verdana, "deja vu sans", sans-serif;
+  background-color: lightpink;
+}
+
+#cooler {
+  color: black;
+  font-family: verdana, "deja vu sans", sans-serif;
+  background-color: lightpink;
+  font-size: 24px;
+}
+
+#first_id {
+  color: blue;
+  font-size: 36px;
+}
+
+#second-id {
+  color: black;
+  background-color: green;
+  font-size: 36px;
+  font-weight: bold;
+}
